@@ -1,4 +1,5 @@
 #include "_cgo_export.h"
+#include "native_darwin.h"
 
 // workaround wrappers needed due to a cgo and/or LLVM bug.
 // See: https://github.com/go-gl/glfw/issues/136
